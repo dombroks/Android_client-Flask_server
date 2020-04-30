@@ -24,7 +24,7 @@ Go to your terminal and type the following command:
 
     android:usesCleartextTraffic="true"
     
-It will allows you to send clear text.
+It will allows you to send clear text to the server.
 
 2.The default localhost of the emulator:
       
