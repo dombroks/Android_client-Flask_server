@@ -1,4 +1,4 @@
-package com.dombroks.heart_disease;
+package com.dombroks.android_flask;
 
 import android.os.Bundle;
 import android.view.View;
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         connect.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                postRequest("You message here", url);
+                postRequest("hdhfkdjfhki", url);
 
             }
         });

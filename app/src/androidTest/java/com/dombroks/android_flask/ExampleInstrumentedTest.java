@@ -1,4 +1,4 @@
-package com.dombroks.heart_disease;
+package com.dombroks.android_flask;
 
 import android.content.Context;
 

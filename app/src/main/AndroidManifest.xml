@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dombroks.heart_disease">
+    package="com.dombroks.android_flask">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -15,7 +15,7 @@
         android:usesCleartextTraffic="true">
 
 
-        <activity android:name=".MainActivity">
+        <activity android:name="com.dombroks.android_flask.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
