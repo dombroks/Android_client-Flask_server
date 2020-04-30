@@ -1,6 +1,8 @@
 ![alt text](Flask.png)
 
-Note: this code is meant to be a project of an android app for the heart disease.
+Note I: this code is meant to be a project of an android app for the heart disease.
+
+Note II: you will find the python code inside the src folder.
 # Android Client/Flask Server :+1:
 Are you mobile developer with some background in pythom programming ?
 Ever wondered of exploring/making backend services for your apps by own.? 
@@ -14,6 +16,7 @@ Go to your terminal and type the following command:
 
       $ pip3 install Flask
 #### Step 2 - Start using it(Coding).  
+
 
 ## Android App (OkHttp/Retrofit,Java/Kotlin, Android Studio)
 #### Step 1 - Setup your environment. 
