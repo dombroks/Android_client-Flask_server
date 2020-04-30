@@ -1,4 +1,6 @@
 ![alt text](Flask.png)
+
+Note: this code is meant to be a project of an android app for the heart disease.
 # Android Client/Flask Server :+1:
 Are you mobile developer with some background in pythom programming ?
 Ever wondered of exploring/making backend services for your apps by own.? 
