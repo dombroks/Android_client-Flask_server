@@ -5,7 +5,7 @@ android {
     buildToolsVersion '29.0.3'
 
     defaultConfig {
-        applicationId "com.dombroks.heart_disease"
+        applicationId "com.dombroks.android_flask"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
