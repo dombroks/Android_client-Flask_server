@@ -1,4 +1,5 @@
-# Android Client/Flask Server
+![alt text](Flask.png)
+# Android Client/Flask Server :+1:
 Are you mobile developer with some background in pythom programming ?
 Ever wondered of exploring/making backend services for your apps by own.? 
 I recently encountered Python Flask framework.
@@ -15,6 +16,18 @@ Go to your terminal and type the following command:
 ## Android App (OkHttp/Retrofit,Java/Kotlin, Android Studio)
 #### Step 1 - Setup your environment. 
 #### Step 2 - Start coding.
+
+#### Tips
+1.Don't forget to add this to your manifest file:
+
+    android:usesCleartextTraffic="true"
+    
+It will allows you to send clear text.
+
+2.The default localhost of the emulator:
+      
+      http://10.0.2.2:PortNumber/
+
 
      
   
