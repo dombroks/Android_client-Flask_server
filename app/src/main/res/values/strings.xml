@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_Flask</string>
+    <string name="Test_The_connection">Connect to server</string>
 </resources>

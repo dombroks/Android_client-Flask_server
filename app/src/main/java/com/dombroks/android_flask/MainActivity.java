@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private String postBodyString;
     private MediaType mediaType;
     private RequestBody requestBody;
-    private String mMessage;
     private Button connect;
 
     @Override
