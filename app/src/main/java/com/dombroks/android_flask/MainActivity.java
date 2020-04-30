@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         connect.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                postRequest("hdhfkdjfhki", url);
+                postRequest("your message here", url);
 
             }
         });
